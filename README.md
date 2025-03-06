@@ -1,4 +1,3 @@
-# Learning_Rate
 Learning Rate in Neural Networks
 The learning rate is a critical hyperparameter in neural network training. It controls the step size taken during the optimization process to update the model's weights. Essentially, it determines how quickly the model learns from the data.
 
